@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/hackrush-23_pdc-website/static/css/main.54924fcd.css",
+    "main.js": "/hackrush-23_pdc-website/static/js/main.e2b85271.js",
+    "static/media/IITGN Logo-Trans.png": "/hackrush-23_pdc-website/static/media/IITGN Logo-Trans.9c62fff84e29bc293a33.png",
+    "static/media/banner-2.jpg": "/hackrush-23_pdc-website/static/media/banner-2.c66edc8a6b8b6b1bd4b3.jpg",
+    "static/media/empty.gif": "/hackrush-23_pdc-website/static/media/empty.892e3c962daac6591a52.gif",
+    "static/media/logo.png": "/hackrush-23_pdc-website/static/media/logo.a0fff9bafa0d43cb1612.png",
+    "static/media/banner.jpg": "/hackrush-23_pdc-website/static/media/banner.4d41cdabcae317284099.jpg",
+    "index.html": "/hackrush-23_pdc-website/index.html",
+    "main.54924fcd.css.map": "/hackrush-23_pdc-website/static/css/main.54924fcd.css.map",
+    "main.e2b85271.js.map": "/hackrush-23_pdc-website/static/js/main.e2b85271.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54924fcd.css",
+    "static/js/main.e2b85271.js"
+  ]
+}
