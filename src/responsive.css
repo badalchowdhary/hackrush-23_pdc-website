@@ -1,0 +1,84 @@
+@media (min-width: 1600px) {}
+
+@media (max-width: 991px) {}
+
+
+
+@media (max-width: 767px) {
+
+    .about-content p{
+        font-size: 16px;
+    }
+
+    .banner-content h1 {
+        font-size: 44px;
+    }
+
+    .footer-logo img {
+        width: 80px;
+    }
+
+    .footer-logo {
+        text-align: center;
+    }
+
+    #page-header {
+        height: 30vh;
+    }
+
+    .page-heading {
+        margin: 5vw;
+
+
+    }
+
+    .page-heading h2 {
+        font-size: 34px;
+    }
+    .section-button{
+        padding: 5px;
+        font-size: 16px;
+      }
+
+      .pagination-section{
+        margin-top: 20px;
+        display: flex;
+        text-align: center;
+        overflow: auto;
+      }
+      .pagination-btn-container{
+        text-align: center;
+      
+      }
+      .pagination-btn{
+        margin-right: 5px;
+        padding: 10px 15px;
+        text-align: center;
+        border: none;
+        background: #56ccf2;
+        background: linear-gradient(to bottom, #2f80ed, #56ccf2);
+        border-radius: 5px;
+        transition: 0.3s;
+        font-size: 14px;
+        color: white;
+      
+      }
+      .contact-content p{
+        font-size: 16px;
+      }
+    
+
+    
+
+
+}
+
+
+
+
+
+@media (max-width: 500px) {}
+
+
+
+@media (max-width: 380px) {}
